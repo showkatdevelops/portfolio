@@ -1276,8 +1276,7 @@ header{
 	}
 }
 @media only screen and (max-width:768px) {
-	header {
-		width: 240px;
+	header .top-bar {
 		/* left: 50px; */
 	}
 }
