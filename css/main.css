@@ -1123,7 +1123,7 @@ header .logo a {
 }
 header{
 	background-color: black;
-	width: 250px;
+	width: 240px;
 	height:66px;
 	display: inline;
 }
@@ -1276,7 +1276,8 @@ header{
 	}
 }
 @media only screen and (max-width:768px) {
-	header .top-bar {
+	header {
+		width: 240px;
 		/* left: 50px; */
 	}
 }
