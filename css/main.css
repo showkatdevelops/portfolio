@@ -1107,6 +1107,7 @@ header .logo {
 	margin-right: 50px;
 	margin-top: 25px;
 	position: center;
+	width:auto;
 }
 header .logo a {
 	display: block;
