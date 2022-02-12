@@ -1278,7 +1278,7 @@ header{
 }
 @media only screen and (max-width:768px) {
 	header {
-		width:240px;
+		/* width:240px; */
 	}
 }
 @media only screen and (max-width:600px) {
